@@ -1,0 +1,10 @@
+body
+	{
+	background-color:white;
+	}
+table,th,tr,td
+{border:2px solid black;border-collapse:collapse;}
+.go{width:58%;}
+h3{background-color:pink;border:1px solid black;}
+.sri{float:right;}
+h1{text-align:center;}
